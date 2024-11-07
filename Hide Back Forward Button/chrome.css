@@ -1,0 +1,1 @@
+@-moz-document url-prefix("chrome:") {    :root:not([customizing]) #back-button{ display: none !important; }    :root:not([customizing]) #forward-button{ display: none !important; } }
